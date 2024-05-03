@@ -30,9 +30,10 @@ Welcome to Best Group, your premier destination for all things [topic/industry/n
 ![Anon Desktop Demo](./image/icon.png "Desktop Demo")
 
 # main features 
-**searching feature**
-**search by tag, dat, write, and category**
-**flitter Feature**
+- **searching feature**
+- **search by tag, dat, write, and category**
+- **flitter Feature**
+- **User will be able to comment on post after reading**
 
 # conclusion
 
