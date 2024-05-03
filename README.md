@@ -1,6 +1,6 @@
-# group 4
+# group 5
 
-by focusing on CMS our group has created blogs website where admin user will create blog with full information blog that have created 
+Our team's dedicated focus on developing a robust Content Management System (CMS) has resulted in the creation of a sophisticated blog website. Admin users are empowered to effortlessly craft and publish comprehensive blog content, ensuring a seamless user experience. Through our commitment to professionalism and innovation, we have revolutionized the digital content creation landscape, providing users with a platform to share their insights and ideas with the world. 
 
 # Group members  
 
