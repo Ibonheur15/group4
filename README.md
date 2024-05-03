@@ -5,6 +5,6 @@ by focusing on CMS our group has created blogs website where admin user will cre
 # Technology used
 - **CMS**: [wordpress](https://wordpress.org/)
 - **Database**: [PHP Myadmin, SQL](https://www.phpmyadmin.net/)
-- **Authentication**: [NextAuth.js](https://next-auth.js.org)
-- **Deployment**: [Vercel](https://vercel.com)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com)
+- **Theme**: [Ideal Blog](https://wordpress.org/)
+- **Main plagin**: [Elementor](https://wordpress.org/)
+- **Host**: [Localhost](http://127.0.0.1/dashboard/)
